@@ -24,15 +24,15 @@ This is a simple Employee Management System developed to manage employee records
 ---
 
 ## 📂 Project Structure
----
 
+```
 Employee-Management-System/
 │
-├── src/           # Source code
-├── manifest.mf    # Configuration file
+├── src/            # Source code
+├── manifest.mf     # Configuration file
 └── README.md
+```
 
----
 
 ## ▶️ How to Run
 
