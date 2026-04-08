@@ -24,6 +24,7 @@ This is a simple Employee Management System developed to manage employee records
 ---
 
 ## 📂 Project Structure
+---
 
 Employee-Management-System/
 │
